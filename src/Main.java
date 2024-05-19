@@ -1,6 +1,5 @@
-
-Class Main{
-  public static void main(String [] args){
-  System.out.println("BS COmputer");
-}
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
 }
