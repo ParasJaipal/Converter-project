@@ -1,6 +1,6 @@
 
-Class Main {
+Class Main{
   public static void main(String [] args){
-    System.out.println("Paras Jaipal Try YOur BEst alwaYs never GIVEUP");
+    System.out.println("Paras Jaipal");
   }
 }
